@@ -1,5 +1,5 @@
 # CatLikeCodingTutorials
-Working through the Cat Like Coding Unity Tutorials at https://catlikecoding.com/unity/tutorials/
+Working through the [Catlike Coding Unity Tutorials](https://catlikecoding.com/unity/tutorials/)
 
 ## 01-Basics
 - [x] 01 - Game Objects and Scripts
