@@ -3,7 +3,7 @@ Working through the [Catlike Coding Unity Tutorials](https://catlikecoding.com/u
 
 ## 01-Basics
 - [x] 01 - Game Objects and Scripts
-- [ ] 02 - Build a Graph
+- [x] 02 - Build a Graph
 - [ ] 03 - Mathematical Surfaces
 - [ ] 04 - Measuring Performance
 - [ ] 05 - Compute Shaders
