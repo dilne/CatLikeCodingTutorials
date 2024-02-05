@@ -5,7 +5,7 @@ Working through the [Catlike Coding Unity Tutorials](https://catlikecoding.com/u
 - [x] 01 - Game Objects and Scripts
 - [x] 02 - Building a Graph
 - [x] 03 - Mathematical Surfaces
-- [ ] 04 - Measuring Performance (WIP)
+- [x] 04 - Measuring Performance
 - [ ] 05 - Compute Shaders
 - [ ] 06 - Jobs
 - [ ] 07 - Organic Variety
